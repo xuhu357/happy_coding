@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo_MergeSort", "Algo_Merg
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo_InsertionSort", "Algo_InsertionSort\Algo_InsertionSort.vcxproj", "{21D8149F-E507-45AA-AD8E-AF2027219376}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo_insertionSort2", "Algo_insertionSort2\Algo_insertionSort2.vcxproj", "{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{21D8149F-E507-45AA-AD8E-AF2027219376}.Release|x64.Build.0 = Release|x64
 		{21D8149F-E507-45AA-AD8E-AF2027219376}.Release|x86.ActiveCfg = Release|Win32
 		{21D8149F-E507-45AA-AD8E-AF2027219376}.Release|x86.Build.0 = Release|Win32
+		{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}.Debug|x64.ActiveCfg = Debug|x64
+		{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}.Debug|x64.Build.0 = Debug|x64
+		{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}.Debug|x86.Build.0 = Debug|Win32
+		{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}.Release|x64.ActiveCfg = Release|x64
+		{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}.Release|x64.Build.0 = Release|x64
+		{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}.Release|x86.ActiveCfg = Release|Win32
+		{7CC937A4-C516-4E7C-B805-D7E5185E8BB1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
