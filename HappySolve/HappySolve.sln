@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo_insertionSort2", "Algo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo_BubbleSort", "Algo_BubbleSort\Algo_BubbleSort.vcxproj", "{22881717-BC6D-4501-B5AE-33B208EAEC49}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algo_Recursive_Combination", "Algo_Recursive_Combination\Algo_Recursive_Combination.vcxproj", "{CD334EBD-CFE3-4C19-80E8-F55201D61E16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{22881717-BC6D-4501-B5AE-33B208EAEC49}.Release|x64.Build.0 = Release|x64
 		{22881717-BC6D-4501-B5AE-33B208EAEC49}.Release|x86.ActiveCfg = Release|Win32
 		{22881717-BC6D-4501-B5AE-33B208EAEC49}.Release|x86.Build.0 = Release|Win32
+		{CD334EBD-CFE3-4C19-80E8-F55201D61E16}.Debug|x64.ActiveCfg = Debug|x64
+		{CD334EBD-CFE3-4C19-80E8-F55201D61E16}.Debug|x64.Build.0 = Debug|x64
+		{CD334EBD-CFE3-4C19-80E8-F55201D61E16}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD334EBD-CFE3-4C19-80E8-F55201D61E16}.Debug|x86.Build.0 = Debug|Win32
+		{CD334EBD-CFE3-4C19-80E8-F55201D61E16}.Release|x64.ActiveCfg = Release|x64
+		{CD334EBD-CFE3-4C19-80E8-F55201D61E16}.Release|x64.Build.0 = Release|x64
+		{CD334EBD-CFE3-4C19-80E8-F55201D61E16}.Release|x86.ActiveCfg = Release|Win32
+		{CD334EBD-CFE3-4C19-80E8-F55201D61E16}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
