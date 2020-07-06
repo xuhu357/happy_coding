@@ -36,7 +36,6 @@ void insertionSortFull(vector<int>& arr, int length)
 		for (int j = i; j >= prev + 2; j--)
 		{
 			arr[j] = arr[j - 1];
-
 		}
 
 		arr[prev + 1] = currentValue;
