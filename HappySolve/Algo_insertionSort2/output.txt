@@ -1,0 +1,9 @@
+Please input num of Test:
+array num size: 3
+Before sorting:2 3 1 
+Length of data to sort: 3
+Current Value: 3
+Loop: 1 done.
+Current Value: 1
+Loop: 2 done.
+After sorting:1 2 3 
